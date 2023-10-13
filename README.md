@@ -7,4 +7,4 @@
 Project set up instructions include:
   1.creating a repository with files of HTML,CSS AND JAVASCRIPT
   2.The project should have a fetched Public API 
-  3. The project also uses json as the communication format which is the fetched API 
+  3. The project also uses json as the communication format which is the fetched API
