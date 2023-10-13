@@ -4,11 +4,10 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background: #222;
+  background: #0c1016;
   font-family: 'Mulish', sans-serif;
-  font-size: 120%;
-
-}
+  font-size: 130%;
+ }
 .card {
   background: #000000d0;
   color: white;
